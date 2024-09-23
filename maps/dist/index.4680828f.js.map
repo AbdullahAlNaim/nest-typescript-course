@@ -1,0 +1,1 @@
+{"mappings":"AAAA,iCAAiC;AAEjC,2BAA2B;AAE3B,qBAAqB","sources":["typescript-nest-course/maps/src/index.ts"],"sourcesContent":["// import { User } from './User';\r\n\r\n// const user = new User();\r\n\r\n// console.log(user);"],"names":[],"version":3,"file":"index.4680828f.js.map","sourceRoot":"/__parcel_source_root/"}
